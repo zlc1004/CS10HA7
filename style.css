@@ -2,6 +2,19 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: #f4f4f4;
     color: #333;
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+/* Light theme styles */
+body[data-theme="light"] {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Dark theme styles */
+body[data-theme="dark"] {
+    background-color: #333;
+    color: #f4f4f4;
 }
 
 .container {
@@ -13,11 +26,32 @@ body {
 section {
     background-color: #fff;
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    transition: background-color 0.3s;
+}
+
+/* Dark theme section styles */
+section[data-theme="dark"] {
+    background-color: #444;
 }
 
 h1, h2 {
-    color: #007bff; /* Bootstrap primary color */
+    color: #333; /* Default heading color */
+}
+
+/* Dark theme heading colors */
+body[data-theme="dark"] h1,
+body[data-theme="dark"] h2 {
+    color: #fff;
+}
+
+.btn-outline-light {
+    color: #f4f4f4;
+    border-color: #f4f4f4;
+}
+
+/* Dark theme button styles (optional) */
+body[data-theme="dark"] .btn-outline-light {
+    color: #333;
+    border-color: #333;
 }

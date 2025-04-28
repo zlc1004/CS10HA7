@@ -9,7 +9,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body data-theme="light">
 
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -20,16 +20,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#what-is">What is Cybersecurity?</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#history">Historical Context</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#interests">My Interests</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#resources">Resources</a>
+                    <button id="theme-switcher" class="btn btn-outline-light">Dark Mode</button>
                 </li>
             </ul>
         </div>
@@ -37,51 +28,38 @@
 
     <!-- Home Section -->
     <section id="home" class="container mt-5">
-        <h1>Welcome to Secure Horizons</h1>
+        <h1 >Welcome to Secure Horizons</h1>
         <p>Explore the challenges, innovations, and critical importance of protecting our digital lives.</p>
         <a href="#what-is" class="btn btn-primary">Learn More</a>
     </section>
 
     <!-- What is Cybersecurity Section -->
     <section id="what-is" class="container mt-5">
-        <h2>What is Cybersecurity?</h2>
+        <h2 >What is Cybersecurity?</h2>
         <p>Cybersecurity is the practice of protecting systems, networks, and data from digital attacks.</p>
         <!-- Add more content here -->
     </section>
 
     <!-- Historical Context Section -->
     <section id="history" class="container mt-5">
-        <h2>Historical Context</h2>
+        <h2 >Historical Context</h2>
         <!-- Paste your HA6 content here -->
     </section>
 
     <!-- My Interests Section -->
     <section id="interests" class="container mt-5">
-        <h2>My Interests</h2>
+        <h2 >My Interests</h2>
         <p>This is where I'll talk about my cybersecurity interests.  For example, I find ethical hacking fascinating!</p>
     </section>
 
     <!-- Resources Section -->
     <section id="resources" class="container mt-5">
-        <h2>Resources</h2>
+        <h2 >Resources</h2>
         <ul>
             <li><a href="https://www.nist.gov/cyberframework">NIST Cybersecurity Framework</a></li>
             <li><a href="https://www.sans.org/">SANS Institute</a></li>
             <!-- Add more resources here -->
         </ul>
-    </section>
-
-    <!-- Interactive Cybersecurity Quiz (JavaScript) -->
-    <section id="quiz" class="container mt-5">
-        <h2>Cybersecurity Quiz</h2>
-        <div id="quiz-container">
-            <p id="question">Question goes here...</p>
-            <div id="options">
-                <!-- Options will be dynamically added here -->
-            </div>
-            <button id="submit-button" disabled>Submit</button>
-        </div>
-        <div id="results"></div>
     </section>
 
     <!-- Bootstrap JavaScript -->
