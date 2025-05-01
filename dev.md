@@ -22,7 +22,7 @@ Organizations must have a framework for how they deal with both attempted and su
 
 At an individual level, a cybersecurity attack can result in everything from identity theft to extortion attempts, to the loss of important data like family photos. Everyone relies on critical infrastructure like power plants, hospitals, and financial service companies. Securing these and other organizations is essential to keeping our society functioning.
 
-### the history of cybersecurity: timeline
+### The History of Cybersecurity: Timeline
 
 <iframe
 src="timeline.html"
@@ -270,11 +270,11 @@ Metz, Cade. “Intel Confirms Decline of Server Giants HP, Dell, and IBM.” _WI
 
 “Online shopping.” _Wikipedia_, https\://en.wikipedia.org/wiki/Online_shopping. Accessed 17 April 2025.
 
-Pullen, John Patrick. “Here's How Wi-Fi Actually Works | TIME.” _Time_, 24 April 2015, https\://time.com/3834259/wifi-how-works/. Accessed 17 April 2025.
+Pullen, John Patrick. “Here's How Wi-Fi Actually Works \| TIME.” _Time_, 24 April 2015, https\://time.com/3834259/wifi-how-works/. Accessed 17 April 2025.
 
 “Search engine.” _Wikipedia_, https\://en.wikipedia.org/wiki/Search_engine. Accessed 17 April 2025.
 
-Strickland, Jonathan. “How ARPANET Works | HowStuffWorks.” _Computer | HowStuffWorks_, https\://computer.howstuffworks.com/arpanet.htm#pt1. Accessed 16 April 2025.
+Strickland, Jonathan. “How ARPANET Works \| HowStuffWorks.” _Computer \| HowStuffWorks_, https\://computer.howstuffworks.com/arpanet.htm#pt1. Accessed 16 April 2025.
 
 “ThinkCentre M series.” _Wikipedia_, https\://en.wikipedia.org/wiki/ThinkCentre_M_series. Accessed 17 April 2025.
 
@@ -282,9 +282,6 @@ Strickland, Jonathan. “How ARPANET Works | HowStuffWorks.” _Computer | HowSt
 
 “WannaCry ransomware attack.” _Wikipedia_, https\://en.wikipedia.org/wiki/WannaCry_ransomware_attack. Accessed 17 April 2025.
 
-Submitting your work:
-
-• Need to complete your research, write in your own words, organize it and properly cite  sources used – then “Turn In”
 
 ## Interests
 
