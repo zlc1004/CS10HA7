@@ -22,6 +22,11 @@ Organizations must have a framework for how they deal with both attempted and su
 
 At an individual level, a cybersecurity attack can result in everything from identity theft to extortion attempts, to the loss of important data like family photos. Everyone relies on critical infrastructure like power plants, hospitals, and financial service companies. Securing these and other organizations is essential to keeping our society functioning.
 
+### Impact on Society
+
+Cybersecurity is crucial for protecting sensitive information, maintaining privacy, and ensuring the integrity of systems and networks. As technology continues to advance, the potential for cyber threats increases, making cybersecurity a top priority for individuals, businesses, and governments alike.
+Cybersecurity is essential for safeguarding personal data, financial information, and critical infrastructure from cyberattacks. It helps prevent identity theft, data breaches, and cybercrime, ensuring the safety and privacy of individuals and organizations. In an increasingly interconnected world, effective cybersecurity measures are vital for maintaining trust in digital systems and protecting against evolving threats.
+
 ### The History of Cybersecurity: Timeline
 
 <iframe
@@ -109,13 +114,13 @@ Concepts
 Modules
 
 Works Cited
-CPlusPlus.com, https://cplusplus.com/. Accessed 8 April 2025.
-GCC, the GNU Compiler Collection, https://gcc.gnu.org/. Accessed 8 April 2025.
-CMake - Upgrade Your Software Build System, https://cmake.org/. Accessed 8 April 2025.
-“A Brief History of C++.” Perforce, 29 November 2023, https://www.perforce.com/blog/qac/misra-cpp-history. Accessed 13 April 2025.
-“C++ Introduction.” W3Schools, https://www.w3schools.com/cpp/cpp_intro.asp. Accessed 8 April 2025.
-Stroustrup, Bjarne, and Sergio De Simone. “C++.” Wikipedia, https://en.wikipedia.org/wiki/C%2B%2B. Accessed 8 April 2025.
-“Visual Studio C/C++ IDE and Compiler for Windows.” Visual Studio, 20 February 2025, https://visualstudio.microsoft.com/vs/features/cplusplus/. Accessed 8 April 2025.
+CPlusPlus.com, <https://cplusplus.com/>. Accessed 8 April 2025.
+GCC, the GNU Compiler Collection, <https://gcc.gnu.org/>. Accessed 8 April 2025.
+CMake - Upgrade Your Software Build System, <https://cmake.org/>. Accessed 8 April 2025.
+“A Brief History of C++.” Perforce, 29 November 2023, <https://www.perforce.com/blog/qac/misra-cpp-history>. Accessed 13 April 2025.
+“C++ Introduction.” W3Schools, <https://www.w3schools.com/cpp/cpp_intro.asp>. Accessed 8 April 2025.
+Stroustrup, Bjarne, and Sergio De Simone. “C++.” Wikipedia, <https://en.wikipedia.org/wiki/C%2B%2B>. Accessed 8 April 2025.
+“Visual Studio C/C++ IDE and Compiler for Windows.” Visual Studio, 20 February 2025, <https://visualstudio.microsoft.com/vs/features/cplusplus/>. Accessed 8 April 2025.
 
 ### History of the Internet
 
@@ -123,7 +128,7 @@ Stroustrup, Bjarne, and Sergio De Simone. “C++.” Wikipedia, https://en.wikip
 
 • Research the “history” of the Internet
 
-`o `For example:
+`o`For example:
 
 When was the Internet first used?
 
@@ -137,7 +142,7 @@ Where?
 
 National Physical Laboratory (NPL) in the United Kingdom
 
-`o `Content of the Internet: What was first on the Internet?
+`o`Content of the Internet: What was first on the Internet?
 
 According to Kleinrock, they intended to transmit the word “LOGIN,” but the system crashed just after they had sent the first two letters. “Hence, the first message on the Internet was 'LO' — as in 'Lo and behold! ',” Kleinrock said.
 
@@ -163,7 +168,7 @@ Then we typed the G, and the system crashed ...
 
 • Find out info about hardware, software, content on the Internet at this time
 
-`o `What computers existed at this time?
+`o`What computers existed at this time?
 
 Lenovo ThinkCentre M90z
 
@@ -171,12 +176,12 @@ Lenovo ThinkCentre A70z
 
 Apple iMac
 
-`O `How did people connect to the Internet?
+`O`How did people connect to the Internet?
 
 Broadband Connections, Wi-Fi, Ethernet, Mobile Broadband, and Dial-Up Connections.\
 2010 was a transitional period in internet connectivity, marked by the decline of dial-up, the dominance of broadband and Wi-Fi, and the rapid growth of mobile internet access.
 
-`O ` Interesting facts you can find?
+`O` Interesting facts you can find?
 
 the first iPhone and the first iPad both got released in 2010.
 
@@ -208,13 +213,13 @@ Amazon.com launched in 1995 as an online bookstore, eventually expanding into a 
 
 • Find out information about how the Internet has changed over the last 14 years \[2005-2019]
 
-`o `Hardware – servers
+`o`Hardware – servers
 
 2005–2010: Traditional Server Dominance. In the mid-2000s, major companies like HP, Dell, and IBM dominated the server market, supplying hardware for businesses and data centers.​
 
 2010–2019: Shift to Cloud and Custom Servers. By 2012, companies such as Google, Facebook, and Amazon began designing their own servers.
 
-`o `Software – viruses, security software
+`o`Software – viruses, security software
 
 Rise of Malware and Ransomware
 
@@ -224,7 +229,7 @@ Evolution of Security Software
 
 To combat emerging threats, security software evolved:​ Cloud-Based Antivirus: Introduced by McAfee in 2008, leveraging cloud resources for real-time threat detection. ​
 
-`o `Connection to the Internet –
+`o`Connection to the Internet –
 
 how do users connect?
 
@@ -240,7 +245,7 @@ Fiber Optics: Delivering high-speed broadband to homes and businesses.​
 
 5G: Promising ultra-fast speeds and low latency for various applications. ​
 
-`o `Other aspects of change? For example, when were search
+`o`Other aspects of change? For example, when were search
 
 Social Media and Content Platforms: The rise of platforms like Facebook, Twitter, and YouTube transformed content consumption and communication.
 
@@ -282,8 +287,17 @@ Strickland, Jonathan. “How ARPANET Works \| HowStuffWorks.” _Computer \| How
 
 “WannaCry ransomware attack.” _Wikipedia_, https\://en.wikipedia.org/wiki/WannaCry_ransomware_attack. Accessed 17 April 2025.
 
+## Interesting Facts
 
-## Interests
+### The First Website is Still Online
+
+The very first website ever created is still accessible today, serving as a digital relic from the early days of the internet. It was launched on August 6, 1991, by Tim Berners-Lee, the inventor of the World Wide Web. Berners-Lee, a British scientist working at CERN (the European Organization for Nuclear Research), developed the World Wide Web to facilitate information sharing among scientists and researchers across different institutions and countries.
+
+The original website, hosted at [info.cern.ch](http://info.cern.ch), was a simple text page that provided an explanation of the World Wide Web project. It included instructions on how to create web pages, use hypertext, and navigate the new information system. The site also contained links to other web servers, making it a valuable resource for early web users to explore and understand this groundbreaking technology.
+
+Over the years, the website has been preserved in its original form, offering a fascinating glimpse into the nascent stages of the internet. Visiting the site today allows users to see the minimalistic design and basic HTML coding that characterized the early web. The preservation of this website underscores the rapid evolution of web technology, highlighting how far we have come from those early days of simple text pages to the complex, interactive websites we use today.
+
+Tim Berners-Lee’s creation of the World Wide Web was a pivotal moment in the history of the internet, transforming it from a tool for academic and military communication into a global information network accessible to anyone with a computer. The first website stands as a testament to this revolutionary innovation, reminding us of the humble beginnings of the web and its extraordinary impact on the world.
 
 ## Core Competencies
 
