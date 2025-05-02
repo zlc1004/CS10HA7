@@ -301,6 +301,43 @@ Tim Berners-Lee’s creation of the World Wide Web was a pivotal moment in the h
 
 ## Core Competencies
 
+### **Part 1: Communication**
+
+- **Explain your strengths** I am somewhat good at communication, but I can improve. I can be clear and concise in my writing, but I need to work on my verbal communication skills.
+
+- **Describe areas for improvement** \
+  🔹 _Listening Skills_\
+  🔹 _Public Speaking_\
+  🔹 _Written Communication_
+
+- 📘 **Example**: In socials, I lead our final project, and communicated with team members.\
+  It was a group project, and I was the leader. I had to communicate with my team members to make sure we were all on the same page. I also had to listen to their ideas and feedback, which helped me improve my communication skills.
+
+---
+
+### **Part 2: Thinking**
+
+- **Choose a subcategory**: _Creative Thinking_
+
+- Strengths problem-solving
+
+- Improvements evaluating solutions better and checking for errors
+
+- **Example**: i got 100% in CCC 2024 Junior Computing Contest\
+  I was able to solve the problems quickly and accurately, which shows that I have strong problem-solving skills. I also checked my work for errors, which helped me get a perfect score. This experience has helped me improve my thinking skills and has given me more confidence in my abilities.
+
+---
+
+### **Part 3: Personal and Social**
+
+- **Choose a subcategory**: _Personal Awareness and Responsibility_
+
+- Strengths responsibility
+
+- Improvements time management, and error handling
+
+- **Example**: I was able to complete my assignments on time and with minimal errors.
+
 ## References/Links
 
 Works Cited
